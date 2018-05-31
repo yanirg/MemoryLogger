@@ -1,0 +1,9 @@
+getCommittedVirtualMemorySize = 242626560getFreePhysicalMemorySize = 3811459072getFreeSwapSpaceSize = 15639777280getProcessCpuLoad = 0.26025010659844366getProcessCpuTime = 1453125000getSystemCpuLoad = 0.44235065704476184getTotalPhysicalMemorySize = 8454922240getTotalSwapSpaceSize = 21339824128getCommittedVirtualMemorySize = 242446336
+getFreePhysicalMemorySize = 3798142976
+getFreeSwapSpaceSize = 15571116032
+getProcessCpuLoad = 0.16979709111773758
+getProcessCpuTime = 1765625000
+getSystemCpuLoad = 1.0
+getTotalPhysicalMemorySize = 8454922240
+getTotalSwapSpaceSize = 21339824128
+getCommittedVirtualMemorySize = 243077120getFreePhysicalMemorySize = 3778695168getFreeSwapSpaceSize = 15551819776getProcessCpuLoad = 0.20024657562335957getProcessCpuTime = 1968750000getSystemCpuLoad = 0.6449557586471735getTotalPhysicalMemorySize = 8454922240getTotalSwapSpaceSize = 21339824128
